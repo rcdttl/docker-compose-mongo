@@ -3,7 +3,7 @@ setting docker-container with mongo
 
 ## simple guide
 
-1. ./main.sh
+1. ./make.sh
 2. ./up.sh
 
 ## remove cmd
